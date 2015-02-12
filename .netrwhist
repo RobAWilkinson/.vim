@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/robertwilkinson/code/angulartest'
+let g:netrw_dirhist_2='/Users/robertwilkinson/code/fridgio-complete'
+let g:netrw_dirhist_3='/Users/robertwilkinson/code/angulartest'
